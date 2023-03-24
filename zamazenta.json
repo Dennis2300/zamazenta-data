@@ -1,0 +1,24 @@
+{
+    "description": 
+    "In times past, it worked together with a king of the people to save the Galar region. It absorbs metal that it then uses in battle. Its ability to deflect any attack led to it being known as the Fighting Master's Shield. It was feared and respected by all.",
+    "name": "Zamazenta",
+    "ability": "Dauntless Shield",
+    "footprint": "Unknown",
+    "dexIndex": "0889",
+    "type": "Fighting",
+    "subtype":"Steel",
+    "weakness": "Fire, Fighting, Ground",
+    "gender": "Unknown",
+    "weight": "785.0",
+    "height": "2.9",
+    "generation": "Generation VIII",
+    "spilVersion":"Pokemon Shield",
+    "canEvolve":"false",
+    "health": "6",
+    "attack": "8",
+    "defense": "9",
+    "specialAttack": "9",
+    "specialDefense":"8",
+    "speed":"5",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/889_f2.png"
+} 
